@@ -2,5 +2,5 @@
 
 
 int main() {
-printf("利行");
+printf("利行\n");
 }
